@@ -11,4 +11,3 @@ Gary's htlm:
 
 https://htmlpreview.github.io/?https://github.com/scholich/jupyter-introduction/blob/master/class_meta_principles.html
 
-<iframe src="https://htmlpreview.github.io/?https://github.com/scholich/jupyter-introduction/blob/master/class_meta_principles.html"></iframe>
